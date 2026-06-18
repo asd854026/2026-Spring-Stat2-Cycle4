@@ -37,40 +37,6 @@ This project uses the `YRBS_2007.csv` dataset provided for the final individual 
 
 One-way ANOVA was used to compare mean BMI percentile across the five perceived weight groups. Because the ANOVA result was statistically significant, Tukey HSD post-hoc comparisons were also used.
 
-## Repository Structure
-
-```text
-README.md
-data/
-  raw/
-    YRBS_2007.csv
-  processed/
-    weight_perception_bmipct_cleaned.csv
-notebooks/
-  01_DataCheck.ipynb
-  02_EDA_Main.ipynb
-  03_Inference.ipynb
-  04_Interpretation.ipynb
-outputs/
-  figures/
-    bmipct_boxplot_by_weight_perception.png
-    mean_bmipct_by_weight_perception_ci.png
-  tables/
-    descriptive_statistics.csv
-    anova_results.csv
-    tukey_hsd_results.csv
-  summary/
-    one_slide_summary.pptx
-    one_page_summary_content.md
-report/
-  one_slide_summary.pptx
-  final_project_report_draft.md
-references/
-  method_and_assumptions.md
-  recoding_rules.md
-  variable_definitions.md
-```
-
 ## Main Results
 
 After cleaning, the analysis dataset contained 12,853 students. The one-way ANOVA found a statistically significant difference in mean BMI percentile across perceived weight groups, F = 1556.65, p < 0.001. The highest mean BMI percentile was in the `Very overweight` group (92.30), while the lowest mean BMI percentile was in the `Slightly underweight` group (36.53). Tukey HSD found 10 statistically significant pairwise comparisons out of 10.
