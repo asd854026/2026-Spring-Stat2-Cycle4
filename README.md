@@ -42,7 +42,3 @@ After cleaning, the analysis dataset contained 12,853 students. The one-way ANOV
 ## Conclusion
 
 Students' perceived weight category is associated with their actual BMI percentile. Students who perceived themselves as overweight generally had higher BMI percentiles than students who perceived themselves as underweight or about the right weight. This conclusion should be stated cautiously because the data show association, not causation.
-
-## Notes
-
-This project shows an association between perceived weight category and BMI percentile. It does not show that weight perception causes BMI percentile or that BMI percentile fully captures student health.
