@@ -8,11 +8,11 @@ Student ID: 112370216
 
 ## Project Repository
 
-GitHub link:https://github.com/asd854026/2026-Spring-Stat2-Cycle4/tree/main
+GitHub link: https://github.com/asd854026/2026-Spring-Stat2-Cycle4/tree/main
 
 ## Presentation Video
 
-YouTube link:https://youtu.be/ax899JlSfRM
+YouTube link: https://youtu.be/ax899JlSfRM
 
 ## Research Question
 
