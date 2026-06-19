@@ -1,9 +1,9 @@
 # Project Cycle 4
 
 ## Student Information
-Name:蘇榮盛
+Name: 蘇榮盛
 
-Student ID:112370216
+Student ID: 112370216
 
 
 ## Project Repository
