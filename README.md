@@ -1,5 +1,10 @@
 # Project Cycle 4
 
+## Student Information
+Name:蘇榮盛
+Student ID:112370216
+
+
 ## Project Repository
 
 GitHub link:https://github.com/asd854026/2026-Spring-Stat2-Cycle4/tree/main
