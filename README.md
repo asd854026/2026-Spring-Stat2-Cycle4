@@ -6,7 +6,7 @@ GitHub link:https://github.com/asd854026/2026-Spring-Stat2-Cycle4/tree/main
 
 ## Presentation Video
 
-YouTube link:
+YouTube link:https://youtu.be/ax899JlSfRM
 
 ## Research Question
 
