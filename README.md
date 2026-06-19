@@ -1,5 +1,3 @@
-# Weight Perception and BMI Percentile Among Students
-
 ## Project Repository
 
 GitHub link:
