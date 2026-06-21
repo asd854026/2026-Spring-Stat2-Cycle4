@@ -1,0 +1,2 @@
+method,group_variable,response_variable,model_source,model_sum_sq,model_df,residual_sum_sq,residual_df,f_statistic,p_value,alpha,decision,post_hoc_test
+One-way ANOVA,PerceptionOfWeight / WeightPerception,BMIPCT,C(WeightPerception),"3,176,100.27",4,"6,553,601.38","12,848","1,556.6455",< 0.0001,0.05,Reject H0,Tukey HSD
